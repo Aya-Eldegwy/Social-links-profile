@@ -21,7 +21,7 @@ main{
 }
 .section{
     background-color: hsl(0, 0%, 12%);
-    padding: 2rem;
+    padding: 1rem 2rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
